@@ -1,0 +1,25 @@
+description: There are 2 NFETs switching to earth. Inductive load is allowed.
+github_branch: NFET2X01A
+github_description: There are 2 NFETs switching to earth. Inductive load is allowed.
+github_repo: NFET2X01
+github_url: https://github.com/mlab-modules/NFET2X01
+homepage: false
+images:
+- doc/img/NFET2X01A_Bot.jpg
+- doc/img/NFET2X01A_Bot_Icon.jpg
+- doc/img/NFET2X01A_Bot_small.jpg
+- doc/img/NFET2X01A_top_small.jpg
+- doc/img/NFET2X01A_top_Icon.jpg
+- doc/img/NFET2X01A_top.jpg
+- doc/html/NFET2X01A_Files/image002.jpg
+- doc/html/NFET2X01A_Files/image001.jpg
+- doc/img/NFET2X01A_QRcode.png
+- doc/html/NFET2X01A_Files/image005.png
+- doc/html/NFET2X01A_Files/image006.png
+- doc/html/NFET2X01A_Files/image004.png
+- doc/html/NFET2X01A_Files/image003.png
+mark: 50
+status: 0
+tags: []
+title: NFET2X01
+updated: '2023-09-17T11:30:03.380739+00:00'

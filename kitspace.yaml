@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/NFET2X01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/NFET2X01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/NFET2X01
+summary: There are 2 NFETs switching to earth. Inductive load is allowed.
